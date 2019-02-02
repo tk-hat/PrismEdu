@@ -1,22 +1,9 @@
-# Prism©K—pƒŠƒ|ƒWƒgƒŠ
+# Prism Library v7 è‡ªç¿’ç”¨ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ
 
-‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ÍAPrism 6.0‚Ì©K—pƒŠƒ|ƒWƒgƒŠ‚Å‚·B
+ã“ã“ã¯ã€Prism Library v7 ã‚’ãƒ™ãƒ¼ã‚¹ã«è‡ªç¿’ãƒ¡ãƒ¢ã‚’æ®‹ã—ã¦ã„ããƒªãƒã‚¸ãƒˆãƒªã§ã™ã€‚
+v6 ã®ã‚‚ã®ã‚’è¦‹ãŸã„å ´åˆã¯ v6 ãƒ–ãƒ©ãƒ³ãƒã‚’ç¢ºèªã—ã¦ãã ã•ã„ã€‚
 
 ## Prism.Wpf
-+ [Bootstrapper‚ğg‚¨‚¤](01.Bootstrap)
-+ [ViewModelLocator‚ğg‚¨‚¤](02.ViewModelLocator)
-+ [Module‚ÆRegion‚ğg‚¨‚¤](03.Module)
-+ [MVVM‚ÌŠî–{ƒNƒ‰ƒX](04.MVVMBasic)
-+ [ƒ†[ƒU[‚Æ‚Ì‘Î˜b‚ğÀŒ»‚·‚éInteractionRequest](05.InteractionRequest)
-+ [ƒiƒrƒQ[ƒVƒ‡ƒ“Ú×](06.Navigation)
-+ [ƒ‚ƒWƒ…[ƒ‹ŠÔ‚Ì’ÊM‚ğ‚·‚éEventAggregator](07.EventAggregator)
-+ [Module‚Ì“Ç‚İ‚İˆ—](08.ModuleLoadSeq)
-+ [RegionBehavior](09.RegionBehavior)
-+ [App.config‚É‚æ‚éModuleCatalog‚Ì\¬](10.ModuleCatalog)
 
-## Prism.Windows
-+ [Prism.WindowsŠT—v](UWP/01.Intro)
-+ [Hello world](UWP/02.HelloWorld)
-+ [‰æ–Ê‘JˆÚ](UWP/03.Navigation)
-+ [ƒfƒoƒCƒXƒT[ƒrƒX](UWP/04.Device)
-+ [MVVM‚ÌŠî–{ƒNƒ‰ƒX](UWP/05.MVVM)
+.NET Core 3.0 Preview ã§è‡ªç¿’ã—ã¦ã„ãã¾ã™ã€‚
+
